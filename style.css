@@ -1,0 +1,63 @@
+@import url('https://fonts.googleapis.com/css2?family=Hind&display=swap');
+
+body {
+    background-color: #264653;
+    display: flex;
+    justify-content: center;
+}
+
+.imagem img{
+    width: 400px;
+}
+
+.header{
+    display: flex;
+}
+
+.box {
+    display: flex;
+    width: 60%;
+    margin: 5%;
+    background-color: white;
+    border-radius: 2%;
+    margin-left: 1%;
+    margin: 2%;
+    
+}
+.box div {
+    margin-left: 1%;
+    margin: 2%;
+}
+
+.sub {
+    display: flex;
+}
+
+.sub img {
+  width: 200px;
+  height: 100px;
+  
+
+}
+
+.sub, .arco {
+    width: 50px;
+    margin: 6%;
+}
+
+.texto {
+    width: 500px;
+}
+
+.titulo {
+    font-family: 'Hind', sans-serif;
+}
+.fotinha {
+    display: flex;
+    justify-content: center;
+}
+
+.embaixo {
+    margin-left: 70%;
+}
+
